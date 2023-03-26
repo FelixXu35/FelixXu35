@@ -1,7 +1,5 @@
 ![name](./assets/name.png)
 
-
-
 - 👋 Hi, I’m @FelixXu35
 
 - 👀 I’m interested in Quantum Computing / Qiskit / Julia / COMSOL / Piezoelectric Deivce.
